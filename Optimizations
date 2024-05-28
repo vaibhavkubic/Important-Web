@@ -1,0 +1,40 @@
+https://docs.google.com/spreadsheets/d/13AdW7lgLBz-ySeXjDSLUzasUXqGcHJg_d11c1a09PTw/edit?usp=sharing
+Convex Optimisation in Machine Learning	http://www.cs.berkeley.edu/~jordan/courses/294-fall09/lectures/optimization/slides.pdf
+Stanford first course on convex optimisation	http://www.stanford.edu/class/ee364a/lectures.html
+Stanford advanced course on convex optimisation	http://www.stanford.edu/class/ee364b/lectures.html
+Tutorial on convex optimisation	http://videolectures.net/site/normal_dl/tag=624741/mlss2011_vandenberghe_convex.pdf
+Slides on convex sets	https://www.math.lsu.edu/system/files/control-seminar-Sept05.pdf
+Advanced Topics in Convex Optimization and its Applications	http://www.cs.cityu.edu.hk/~cheewtan/CS8292Class/
+Adaptation of Stephen Boyd's course slides	http://www.ece.ucsb.edu/~roy/classnotes/271a/ECE271a_lecture2_small.pdf
+VIDEO LECTURES	
+Stanford first course on convex optimisation	http://www.stanford.edu/class/ee364a/videos.html
+Stanford advanced course on convex optimisation	http://www.stanford.edu/class/ee364b/videos.html
+Tutorial on convex optimisation	http://videolectures.net/mlss2011_vandenberghe_convex/
+WEB SITES	
+Convex Optimisation website	http://www.convexoptimization.com/
+Website on submodular optimisation	submodularity.org
+Matrix Norm induced by vector norm	http://nptel.iitm.ac.in/courses/Webcourse-contents/IIT-KANPUR/Numerical%20Analysis/numerical-analysis/kadalbajoo/lec1/fnode3.html
+	
+LECTURE NOTES	
+Linear algebra	http://athena.nitc.ac.in/~kmurali/dms/axler.pdf
+Matrix norms and inner products	http://www.math.ucsd.edu/~njw/Teaching/Math271C/Lecture_04.pdf
+Affine sets, dual etc	http://www.dima.unige.it/~geramita/geomanal/
+Properties of convex polytopes	http://fma2.math.uni-magdeburg.de/~henk/preprints/henk%20richter-gebert%20ziegler&basic%20properties%20of%20convex%20polytopes.pdf
+Computational geometry and linear/affine/conic/convexity	http://cm.bell-labs.com/who/clarkson/cis677/lecture/
+On cones such as Positive Semi definite cones	https://ccrma.stanford.edu/~dattorro/EDMcone.pdf
+Code related	
+CVXR: Software for disciplined convex programming	http://cvxr.com/
+CVX: Matlab software for disciplined convex programming	http://cvxr.com/cvx/
+Matlab for convex optimisation and Eucledian Distance Geometry	http://www.convexoptimization.com/wikimization/index.php/Matlab_for_Convex_Optimization_%26_Euclidean_Distance_Geometry
+Venkataraman:Applied Optimization with MATLAB Programming, 2nd Edition	http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=4907&itemId=047008488X&resourceId=16186&chapterId=48173
+convhull returns the convex hull of a set of points in 2-D or 3-D space	http://www.mathworks.com/help/matlab/ref/convhull.html
+SDPT3	http://www.math.nus.edu.sg/~mattohkc/sdpt3/guide4-0-draft.pdf
+LAPACK — Linear Algebra PACKage	http://www.netlib.org/lapack/
+CPLEX Optimizer	http://www-01.ibm.com/software/commerce/optimization/cplex-optimizer/
+"High performance software for large-scale LP, QP, SOCP, SDP and MIP
+including interfaces to C, Java, MATLAB, .NET and Python."	http://www.mosek.com/
+SeDuMi: a Matlab toolbox for optimization over symmetric cones.	http://sedumi.ie.lehigh.edu/
+Matlab optimisation toolbox	http://www.mathworks.com/products/optimization/
+A complete listing:	http://en.wikipedia.org/wiki/List_of_optimization_software
+	
+A convenient matlab-based modelling language for advanced modeling and solution of convex and nonconvex optimization problems	http://users.isy.liu.se/johanl/yalmip/
